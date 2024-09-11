@@ -1,0 +1,10 @@
+.box{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.box img{
+    height: 50px;
+    margin: 10px 55px;
+}
